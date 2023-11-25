@@ -1,3 +1,6 @@
 haha
-git is a distributed version control system
-git is free software
+git is a distributed version control system and a freesoftware
+
+git add: work--->index
+git commit : index---->head
+
