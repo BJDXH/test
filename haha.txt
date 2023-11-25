@@ -1,12 +1,1 @@
-haha
-git is a distributed version control system and a freesoftware
-
-git add: work--->index
-git commit : index---->head
-
-changed again
-
-git track changes    of   file
-
-boss is stupid
-
+hahahahaha
