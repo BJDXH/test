@@ -3,5 +3,9 @@ test1
 
 branch test2
 
+<<<<<<< HEAD
 hahaha branch3456789
 dedededede
+=======
+branch test3
+>>>>>>> featurel
