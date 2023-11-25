@@ -6,4 +6,4 @@ git commit : index---->head
 
 changed again
 
-git track changes
+git track changes    of   file
